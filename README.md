@@ -1,5 +1,11 @@
-## Hi there 👋
+# Welcome 👋
 
+## Introduction
+My name is Oakley and username is Skeg101. I am currently studying a certificate IV in Cyber Security with the goal of learning some coding and about physical cyber security.
+
+## Interests
+I love watching movies like Interstellar and Scott Pilgrim vs the World. So excited for the new Christopher Nolan movie next year 😄. I also play the bass guitar and love listening to all types of music, ranging from Iron Maiden to Kool & the Gang to
+Babymetal. Keeping up and learning about the latest tech hardware and software is a big interest of mine, with learning about Linux (CachyOS specifically) being my new favourite thing as I moved from Windows 10 to it.
 <!--
 **Skeg101/Skeg101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
